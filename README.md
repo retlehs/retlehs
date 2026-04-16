@@ -1,4 +1,12 @@
-<pre>
+<pre><a href="https://roots.io/">                             ▄▄██          ██▄▄                        
+                            ████▀   ▓      █████                       
+                           ████▀  ░█▓  ▓   ██████                      
+                           █▀▀  ▄▄█▀░ ░█   ██████                      
+                             ░▄██▀░  ▄██▓  ██████                      
+                            ▓██▀  ▄▄█████▄  ▀███░                      
+                                ▄██████████▄                           
+                               ░▀▀████████▀▀░                          </a>
+
 <a href="https://roots.io/radicle/">┌─────────────────────┐</a> <a href="https://github.com/roots/sage">┌─────────────────────┐</a> <a href="https://github.com/roots/bedrock">┌─────────────────────┐</a>
 <a href="https://roots.io/radicle/">│   @roots/radicle    │</a> <a href="https://github.com/roots/sage">│     @roots/sage     │</a> <a href="https://github.com/roots/bedrock">│   @roots/bedrock    │</a>
 <a href="https://roots.io/radicle/">└─────────────────────┘</a> <a href="https://github.com/roots/sage">└─────────────────────┘</a> <a href="https://github.com/roots/bedrock">└─────────────────────┘</a>
